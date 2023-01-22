@@ -1,0 +1,25 @@
+/* carousel control position css 
+*********************************/
+button.carousel-control-prev {
+    left: -45px;
+}
+button.carousel-control-next {
+    right: -45px;
+}
+
+/* section bottom margin style 
++++++++++++++++++++++++++++++++*/
+.mb-100{
+    margin-bottom: 8rem;
+}
+.bz__img-grey{
+    filter: grayscale(100%);
+    
+}
+/* horizontal line css */
+.w-10{
+    width: 10%;
+}
+.rating-star{
+    width: 6%;
+}
